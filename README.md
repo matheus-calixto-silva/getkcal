@@ -10,7 +10,7 @@
 
 # Sobre #
 
-Aplicação que realiza o cálculo da Taxa Metabolica Basal. Desenvolvida seguindo as orientações do [Mateus Silva](https://github.com/maateusilva/) neste vídeo: https://www.youtube.com/watch?v=yiDq9wUiUjc
+Aplicação que realiza o cálculo da [Taxa Metabolica Basal](https://pt.wikipedia.org/wiki/Metabolismo_basal). Desenvolvida seguindo as orientações do [Mateus Silva](https://github.com/maateusilva/) neste vídeo: https://www.youtube.com/watch?v=yiDq9wUiUjc
 
 # Tecnologias utilizadas #
 
